@@ -1,9 +1,4 @@
-# Example 9
+# Example API in Go Language
 
-## Running the exmaple
-
-To run this exmaple, from the root of this project:
-
-```sh
-go run ./v9/*.go
-```
+## IT's fork
+https://github.com/corylanou/tns-restful-json-api/blob/master/v9/routes.go
